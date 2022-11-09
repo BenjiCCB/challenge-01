@@ -1,7 +1,7 @@
 # Challenge 1 - Horiseon Refactor
 
 ## Site Accessibility Features
-- Added semantic HTML elements (incl header, main, img, aside, and section tags)
+- Added semantic HTML elements (incl header, footer, main, img, aside, and section tags)
 - Alt attributes for images
 - Heading attributes in sequential order
 - Title element filled out
